@@ -1,0 +1,15 @@
+title: レップログ
+description: 筋トレの記録・管理を行うモバイルアプリ「レップログ（RepLog）」公式サイト
+url: https://replog.norudesign.com
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CNAME
