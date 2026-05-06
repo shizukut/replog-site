@@ -16,10 +16,12 @@ title: レップログ
 ## ドキュメント
 
 - [プライバシーポリシー](./privacy/)
+- [利用規約](./terms/)
 
-## お問い合わせ
+## 提供元
 
-<contact@norudesign.com>
+- 事業者名: Norudesign（個人事業主）
+- お問い合わせ: <contact@norudesign.com>
 
 ---
 
