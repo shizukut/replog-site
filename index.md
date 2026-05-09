@@ -21,7 +21,7 @@ title: レップログ
 
 ## 提供元
 
-- 事業者名: Norudesign（個人事業主）
+- 事業者名: Norudesign
 - 所在地: 〒150-0043 東京都渋谷区道玄坂1丁目10番8号 渋谷道玄坂東急ビル 2F-C
 - お問い合わせ: <contact@norudesign.com>
 
